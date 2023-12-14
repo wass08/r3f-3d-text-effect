@@ -1,10 +1,7 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+# r3f-3d-text-effect
 
-```
-yarn
-yarn dev
-```
+![3D-text-effect-thumbnail](https://img.youtube.com/vi/jIkn9dLBfNc/maxresdefault.jpg?w)
 
+[Video tutorial](https://youtu.be/jIkn9dLBfNc)
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+[Starter pack](https://github.com/wass08/r3f-vite-final/)
